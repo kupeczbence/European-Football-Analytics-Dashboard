@@ -1,0 +1,2 @@
+pip install dash plotly
+conda install pandas numpy #így stabilabb lesz a környezet, mint a pip install dash plotly, de ha nem akarod használni a #conda-t, akkor csak simán pip
